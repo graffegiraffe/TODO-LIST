@@ -1,0 +1,79 @@
+2025-01-27 00:48:36 [INFO] Registration attempt for user: Kate
+2025-01-27 00:48:36 [INFO] Initializing UserRepository. Loading users from file: /Users/katusarublevsk/Downloads/todo-list-c32-master/src/main/resources/users.txt
+2025-01-27 00:48:36 [INFO] Users successfully loaded from file: /Users/katusarublevsk/Downloads/todo-list-c32-master/src/main/resources/users.txt
+2025-01-27 00:48:36 [INFO] UserRepository initialized with users: [kate, admin, user]
+2025-01-27 00:48:36 [INFO] Retrieving all users. Total: 3
+2025-01-27 00:48:36 [INFO] Users successfully saved to file: /Users/katusarublevsk/Downloads/todo-list-c32-master/src/main/resources/users.txt
+2025-01-27 00:48:36 [INFO] New user added: Kate
+2025-01-27 00:48:36 [INFO] User registered successfully: Kate
+2025-01-27 00:48:36 [INFO] TaskRepository initialized.
+2025-01-27 00:48:36 [INFO] TodoListServlet initialized.
+2025-01-27 00:48:36 [INFO] Fetching tasks for user: Kate
+2025-01-27 00:48:36 [INFO] Fetching tasks for user: Kate
+2025-01-27 00:48:36 [INFO] No tasks found for user: Kate
+2025-01-27 00:49:08 [INFO] User logged out: Kate
+2025-01-27 00:49:08 [INFO] User not logged in. Redirecting to login page.
+2025-01-27 00:49:14 [INFO] Login attempt for user: kate
+2025-01-27 00:49:14 [INFO] Validation result for user 'kate': SUCCESS
+2025-01-27 00:49:14 [INFO] User logged in successfully: kate
+2025-01-27 00:49:14 [INFO] Fetching tasks for user: kate
+2025-01-27 00:49:14 [INFO] Fetching tasks for user: kate
+2025-01-27 00:49:14 [INFO] No tasks found for user: kate
+2025-01-27 00:49:23 [INFO] Registration page accessed.
+2025-01-27 00:55:01 [INFO] Registration attempt for user: Kate
+2025-01-27 00:55:01 [INFO] Initializing UserRepository. Loading users from file: /Users/katusarublevsk/Downloads/todo-list-c32-master/src/main/resources/users.txt
+2025-01-27 00:55:01 [INFO] Users successfully loaded from file: /Users/katusarublevsk/Downloads/todo-list-c32-master/src/main/resources/users.txt
+2025-01-27 00:55:01 [INFO] UserRepository initialized with users: [kate, admin, user]
+2025-01-27 00:55:01 [INFO] Retrieving all users. Total: 3
+2025-01-27 00:55:01 [INFO] Users successfully saved to file: /Users/katusarublevsk/Downloads/todo-list-c32-master/src/main/resources/users.txt
+2025-01-27 00:55:01 [INFO] New user added: Kate
+2025-01-27 00:55:01 [INFO] User registered successfully: Kate
+2025-01-27 00:55:01 [INFO] TaskRepository initialized.
+2025-01-27 00:55:01 [INFO] TodoListServlet initialized.
+2025-01-27 00:55:01 [INFO] Fetching tasks for user: Kate
+2025-01-27 00:55:01 [INFO] Fetching tasks for user: Kate
+2025-01-27 00:55:01 [INFO] No tasks found for user: Kate
+2025-01-27 00:55:07 [INFO] Registration page accessed.
+2025-01-27 00:55:15 [INFO] Registration attempt for user: Kate
+2025-01-27 00:55:15 [INFO] Retrieving all users. Total: 4
+2025-01-27 00:55:15 [INFO] Registration failed: user already exists: Kate
+2025-01-27 00:55:58 [INFO] Registration attempt for user: Kate
+2025-01-27 00:55:58 [INFO] Initializing UserRepository. Loading users from file: /Users/katusarublevsk/Downloads/todo-list-c32-master/src/main/resources/users.txt
+2025-01-27 00:55:58 [INFO] Users successfully loaded from file: /Users/katusarublevsk/Downloads/todo-list-c32-master/src/main/resources/users.txt
+2025-01-27 00:55:58 [INFO] UserRepository initialized with users: [Kate, kate, admin, user]
+2025-01-27 00:55:58 [INFO] Retrieving all users. Total: 4
+2025-01-27 00:55:58 [INFO] Registration failed: user already exists: Kate
+2025-01-27 00:56:05 [INFO] Registration attempt for user: Kate
+2025-01-27 00:56:05 [INFO] Retrieving all users. Total: 4
+2025-01-27 00:56:05 [INFO] Registration failed: user already exists: Kate
+2025-01-27 00:56:08 [INFO] User not logged in. Redirecting to login page.
+2025-01-27 00:56:13 [INFO] Login attempt for user: kate
+2025-01-27 00:56:13 [INFO] Validation result for user 'kate': SUCCESS
+2025-01-27 00:56:13 [INFO] User logged in successfully: kate
+2025-01-27 00:56:13 [INFO] TaskRepository initialized.
+2025-01-27 00:56:13 [INFO] TodoListServlet initialized.
+2025-01-27 00:56:13 [INFO] Fetching tasks for user: kate
+2025-01-27 00:56:13 [INFO] Fetching tasks for user: kate
+2025-01-27 00:56:13 [INFO] No tasks found for user: kate
+2025-01-27 00:57:23 [INFO] User logged out: kate
+2025-01-27 00:57:23 [INFO] User not logged in. Redirecting to login page.
+2025-01-27 00:57:36 [INFO] Login attempt for user: kate
+2025-01-27 00:57:36 [INFO] Validation result for user 'kate': SUCCESS
+2025-01-27 00:57:36 [INFO] User logged in successfully: kate
+2025-01-27 00:57:36 [INFO] Fetching tasks for user: kate
+2025-01-27 00:57:36 [INFO] Fetching tasks for user: kate
+2025-01-27 00:57:36 [INFO] No tasks found for user: kate
+2025-01-27 00:57:44 [INFO] Fetching tasks for user: kate
+2025-01-27 00:57:44 [INFO] No tasks found for user: kate
+2025-01-27 00:57:44 [INFO] Retrieving the entire task list.
+2025-01-27 00:57:44 [INFO] Task added for user: kate | Task: hhhggg
+2025-01-27 00:57:48 [INFO] Fetching tasks for user: kate
+2025-01-27 00:57:48 [INFO] Found 1 task(s) for user: kate
+2025-01-27 00:57:48 [INFO] Retrieving the entire task list.
+2025-01-27 00:57:48 [INFO] Task added for user: kate | Task: ygtyytg
+2025-01-27 00:57:49 [INFO] Fetching tasks for user: kate
+2025-01-27 00:57:49 [INFO] Found 2 task(s) for user: kate
+2025-01-27 00:57:49 [INFO] Retrieving the entire task list.
+2025-01-27 00:57:49 [INFO] Task deleted for user: kate | Task: ygtyytg
+2025-01-27 00:57:52 [INFO] Request received for About Me page.
+2025-01-27 00:57:52 [INFO] About Me page displayed successfully.

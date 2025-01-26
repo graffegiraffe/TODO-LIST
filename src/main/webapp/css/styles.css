@@ -1,0 +1,147 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #ffe6f2;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+#login-form {
+    background-color: #fff0f5;
+    box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.1);
+    padding: 40px;
+    border-radius: 15px;
+    width: 300px;
+}
+
+label {
+    display: block;
+    margin: 5px 0;
+    color: #ff3399;
+}
+
+input {
+    width: 100%;
+    height: 40px;
+    border: 1px solid #ff80bf;
+    border-radius: 4px;
+    margin-bottom: 10px;
+    padding: 5px;
+}
+
+#button-login {
+    margin-top: 15px;
+    background-color: #ff3399;
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    color: white;
+    cursor: pointer;
+    width: 100%;
+    font-size: 16px;
+}
+
+#button-login:hover {
+    background-color: #ff0077;
+}
+
+.header-buttons {
+    position: absolute;
+    top: 20px;
+    right: 20px;
+}
+
+.header-buttons form {
+    display: inline;
+}
+
+#about-me-id {
+    margin-top: 150px;
+}
+
+#profile-photo {
+    max-width: 70%;
+    border-radius: 50%;
+    border: 2px solid #ff3399;
+}
+
+#about-me-text-id {
+    display: flex;
+    align-items: center;
+    color: #ff66b2;
+}
+
+.header-buttons button {
+    padding: 10px;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+}
+
+#button-about-me {
+    background-color: #ff80bf;
+}
+
+#button-about-me:hover {
+    background-color: #ff3399;
+}
+
+#logout-button {
+    background-color: #ff4d94;
+}
+
+#logout-button:hover {
+    background-color: #d93684;
+}
+
+input[type="text"] {
+    margin-bottom: 10px;
+    border: 1px solid #ff80bf;
+}
+
+#task-btn {
+    padding: 10px;
+    width: 100%;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+    background-color: #ff66b2;
+}
+
+#task-btn:hover {
+    background-color: #ff0077;
+}
+
+input[type="submit"]:hover {
+    background-color: #ff0077;
+}
+
+li {
+    display: flex;
+    align-items: center;
+}
+
+#delete-button {
+    background-color: #ff4d94;
+    border: none;
+    color: white;
+    cursor: pointer;
+    margin-left: 10px;
+    border-radius: 4px;
+    padding: 5px 10px;
+}
+
+#delete-button:hover {
+    background-color: #d93684;
+}
+
+#task-text {
+    flex-grow: 1;
+    color: #ff0077;
+}

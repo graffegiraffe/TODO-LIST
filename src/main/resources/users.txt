@@ -1,0 +1,4 @@
+Kate:kate
+kate:kate
+admin:admin
+user:user
